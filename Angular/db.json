@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "firstName": "Vũ Đình ",
+      "lastName": "Hoài",
+      "email": "vudinhnam200102@gmail.com",
+      "dob": "2002-01-16T17:00:00.000Z",
+      "gender": "male",
+      "phone": "0977235612",
+      "address": "quang hải",
+      "position": "dev",
+      "salary": 2000,
+      "exp": "1",
+      "id": 1
+    },
+    {
+      "firstName": "Nguyễn Hải lll",
+      "lastName": "Nguyên",
+      "email": "nguyen@gmail.com",
+      "dob": "2023-11-05T17:00:00.000Z",
+      "gender": "male",
+      "phone": "0977235612",
+      "address": "quang hoa",
+      "position": "ba",
+      "salary": 1000,
+      "exp": "2",
+      "id": 2
+    }
+  ]
+}
